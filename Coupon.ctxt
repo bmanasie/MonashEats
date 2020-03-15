@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Coupon
+comment1.params=code\ value
+comment1.target=Coupon(java.lang.String,\ float)
+comment2.params=
+comment2.target=java.lang.String\ getCode()
+comment2.text=\r\n\ @return\ the\ code\r\n
+comment3.params=code
+comment3.target=void\ setCode(java.lang.String)
+comment3.text=\r\n\ @param\ code\ the\ code\ to\ set\r\n
+comment4.params=
+comment4.target=float\ getValue()
+comment4.text=\r\n\ @return\ the\ value\r\n
+comment5.params=value
+comment5.target=void\ setValue(float)
+comment5.text=\r\n\ @param\ value\ the\ value\ to\ set\r\n
+numComments=6

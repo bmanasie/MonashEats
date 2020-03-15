@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ViewRatingController
+comment0.text=\r\n\ Class\ for\ the\ admin\ to\ view\ ratings\ for\ restaurants\ and\ customers.\r\n\r\n\ @Yiwang29209409\r\n\ \r\n
+comment1.params=
+comment1.target=ViewRatingController()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ViewRatingController\r\n
+comment2.params=
+comment2.target=java.lang.String[]\ viewResRating()
+comment2.text=\r\n\ view\ the\ restaurant\ rating\r\n\r\n
+comment3.params=
+comment3.target=java.lang.String[]\ viewCustOrder()
+comment3.text=\r\n\ view\ the\ customer\ rating\ by\ order\r\n\ \r\n
+numComments=4

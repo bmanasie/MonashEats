@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Cart
+comment1.params=
+comment1.target=java.util.LinkedHashMap\ getItems()
+comment1.text=\r\n\ @return\ the\ items\r\n
+comment2.params=items
+comment2.target=void\ setItems(java.util.LinkedHashMap)
+comment2.text=\r\n\ @param\ items\ the\ items\ to\ set\r\n
+comment3.params=
+comment3.target=float\ getTotalPrice()
+comment3.text=\r\n\ @return\ the\ totalPrice\r\n
+comment4.params=totalPrice
+comment4.target=void\ setTotalPrice(float)
+comment4.text=\r\n\ @param\ totalPrice\ the\ totalPrice\ to\ set\r\n
+numComments=5

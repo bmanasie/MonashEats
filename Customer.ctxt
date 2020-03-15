@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Customer
+comment1.params=emailAddress\ password\ name\ address\ phoneNumber
+comment1.target=Customer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=pastOrders
+comment10.target=void\ setPastOrders(java.util.ArrayList)
+comment10.text=\r\n\ @param\ pastOrders\ the\ pastOrders\ to\ set\r\n
+comment2.params=
+comment2.target=Customer()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getAddress()
+comment5.params=
+comment5.target=java.lang.String\ getPhoneNumber()
+comment6.params=name
+comment6.target=void\ setName(java.lang.String)
+comment7.params=address
+comment7.target=void\ setAddress(java.lang.String)
+comment8.params=phoneNumber
+comment8.target=void\ setPhoneNumber(java.lang.String)
+comment9.params=
+comment9.target=java.util.ArrayList\ getPastOrders()
+comment9.text=\r\n\ @return\ the\ pastOrders\r\n
+numComments=11

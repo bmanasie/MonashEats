@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AdminController
+comment1.params=
+comment1.target=AdminController()
+comment2.params=
+comment2.target=java.util.ArrayList\ getSurburbList()
+comment3.params=
+comment3.target=void\ setRestaurantinSuburb()
+comment4.params=suburb
+comment4.target=java.util.LinkedList\ getRestaurantListinSuburb(java.lang.String)
+numComments=5

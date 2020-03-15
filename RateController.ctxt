@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=RateController
+comment0.text=\r\n\ Calss\ for\ customer\ to\ rate\ the\ order\r\n\r\n\ @author\ Yiwang\ 29208408\r\n\ @author\ Tianchang\ Ning\r\n\ \r\n
+comment1.params=
+comment1.target=RateController()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RateController\r\n
+comment2.params=
+comment2.target=java.lang.String\ getUserInputString()
+comment2.text=\r\n\ Get\ string\ input\r\n\r\n
+comment3.params=
+comment3.target=int\ getUserInputInt()
+comment3.text=\r\n\ Get\ int\ input\r\n
+comment4.params=file\ rating\ order
+comment4.target=void\ rate(java.io.File,\ java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ Rate\ the\ order\r\n\r\n\ @param\ \ file\ \ \ \ the\ file\ to\ read\r\n\ @param\ \ order\ \ \ \ the\ order\ information\r\n\ @param\ \ rating\ \ \ the\ rating\ information\r\n
+comment5.params=file\ rate
+comment5.target=void\ update(java.io.File,\ int)
+comment6.params=restName\ rate
+comment6.target=double\ getResRating(java.lang.String,\ int)
+numComments=7

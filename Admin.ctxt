@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Admin
+comment1.params=emailAddress\ password
+comment1.target=Admin(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=Admin()
+numComments=3

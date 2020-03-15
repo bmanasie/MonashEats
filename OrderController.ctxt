@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=OrderController
+comment1.params=
+comment1.target=OrderController()
+comment2.params=coupon
+comment2.target=boolean\ applyCoupon(java.lang.String)
+comment3.params=coupon
+comment3.target=boolean\ applyCashCoupon(java.lang.String)
+comment4.params=
+comment4.target=double\ getTotalPrice()
+comment5.params=price
+comment5.target=void\ setTotalPrice(double)
+comment6.params=info
+comment6.target=void\ updateDeliveryInfo(java.util.ArrayList)
+comment7.params=paymentMethod\ map
+comment7.target=void\ placeOrder(java.lang.String,\ java.util.LinkedHashMap)
+comment8.params=restaurantName\ cust
+comment8.target=java.lang.String\ viewReceipt(java.lang.String,\ Customer)
+numComments=9
